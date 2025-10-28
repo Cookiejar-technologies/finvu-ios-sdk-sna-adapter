@@ -2639,7 +2639,11 @@
     {
       "filePath": "\/Users\/pranad\/Documents\/Projects\/finvu-auth-sdk-ios-implementation\/FinvuAuthenticationSDK\/FinvuAuthenticationSDK\/Classes\/repository\/finvuAuthResponseManager.swift",
       "kind": "BooleanLiteral",
+<<<<<<< HEAD
       "offset": 2518,
+=======
+      "offset": 2546,
+>>>>>>> 67ef48a (update : i262 update sna auth sdk for login events.)
       "length": 5,
       "value": "false"
     },
