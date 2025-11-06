@@ -14,17 +14,6 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-<<<<<<< HEAD
-		sY/uVnbkDZZ2rwphtKoApkf3UEk=
-		</data>
-		<key>Modules/OtplessFinVu.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
-		<data>
-		IF+2kwFHLWhFq12bu2ATwXNsc9o=
-		</data>
-		<key>Modules/OtplessFinVu.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
-		<data>
-		0ySEOeDYILSHg3FCIKn96L6Nncc=
-=======
 		tnuGpeIpvTaToo+ddbI2EE+QgnM=
 		</data>
 		<key>Modules/OtplessFinVu.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
@@ -34,7 +23,6 @@
 		<key>Modules/OtplessFinVu.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
 		CIoOyM1zgtHRZx8vrt+sUyePDzc=
->>>>>>> 67ef48a (update : i262 update sna auth sdk for login events.)
 		</data>
 		<key>Modules/OtplessFinVu.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -101,22 +89,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-<<<<<<< HEAD
-			MeFnjMNyx8FF3hzdDYrJO4s82sPO56p4tnzlT3PKB8Q=
-=======
 			cp+0FngsDnlaFgMgFfzxkh2SW/z7yWtc7fKubTgU19Q=
->>>>>>> 67ef48a (update : i262 update sna auth sdk for login events.)
 			</data>
 		</dict>
 		<key>Modules/OtplessFinVu.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-<<<<<<< HEAD
-			KUny05wE+tJvjkk/JCkDvJ04ONP1toDsMWbOiAiJcjo=
-=======
 			3Civ+CU3O5/PTK2ChNnH0D2x4k5H3oCeZkL/KuQKlxI=
->>>>>>> 67ef48a (update : i262 update sna auth sdk for login events.)
 			</data>
 		</dict>
 		<key>Modules/OtplessFinVu.swiftmodule/arm64-apple-ios-simulator.abi.json</key>

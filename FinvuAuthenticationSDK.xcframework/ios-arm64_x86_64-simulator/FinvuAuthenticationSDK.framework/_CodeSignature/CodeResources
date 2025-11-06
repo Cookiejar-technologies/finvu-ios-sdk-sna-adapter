@@ -14,21 +14,6 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-<<<<<<< HEAD
-		Lm2tx8/8FdOL5tNSAK1+HqE/dQ0=
-		</data>
-		<key>Modules/FinvuAuthenticationSDK.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
-		<data>
-		lnGGODcei3PgdZZGEIa+mgqpP/0=
-		</data>
-		<key>Modules/FinvuAuthenticationSDK.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
-		<data>
-		/BLceZEuK0sPyXtZSZUeAu6X63g=
-		</data>
-		<key>Modules/FinvuAuthenticationSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
-		<data>
-		UkjeR7Dajh82r05mR1isNMoEbwg=
-=======
 		CRU54JoQSoB7ogH3vJH7U0XNN/A=
 		</data>
 		<key>Modules/FinvuAuthenticationSDK.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
@@ -42,7 +27,6 @@
 		<key>Modules/FinvuAuthenticationSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
 		GJu1LAVhu4fKnabvhhQxhJYhoX4=
->>>>>>> 67ef48a (update : i262 update sna auth sdk for login events.)
 		</data>
 		<key>Modules/FinvuAuthenticationSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -62,11 +46,7 @@
 		</data>
 		<key>Modules/FinvuAuthenticationSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-<<<<<<< HEAD
-		UkjeR7Dajh82r05mR1isNMoEbwg=
-=======
 		GJu1LAVhu4fKnabvhhQxhJYhoX4=
->>>>>>> 67ef48a (update : i262 update sna auth sdk for login events.)
 		</data>
 		<key>Modules/FinvuAuthenticationSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -109,33 +89,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-<<<<<<< HEAD
-			u0zYrBJVI35XJtjeiW8vOCaAjY4kIhLkhwIpKgfpt0A=
-=======
 			RkqgFMXbgZJWO4gh4lJtJdURmru3MFyctDXNT3VkDoo=
->>>>>>> 67ef48a (update : i262 update sna auth sdk for login events.)
 			</data>
 		</dict>
 		<key>Modules/FinvuAuthenticationSDK.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-<<<<<<< HEAD
-			sx2bVolxcXGwoiHgOyFvmiSWkV0U2+rlT7W3p/EJIB0=
-=======
 			0JIYdqRxR8O0yUMLum698xcSQst3KnF+GfOMFcDWiHY=
->>>>>>> 67ef48a (update : i262 update sna auth sdk for login events.)
 			</data>
 		</dict>
 		<key>Modules/FinvuAuthenticationSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-<<<<<<< HEAD
-			+QncPXRlR8Ato6uGGyxc/5LFYIWhwUAFpihgx0apxEE=
-=======
 			fyC4PbPSRtlkp1M0p5nkrFWYs+JMtH//hpG/oWyKAY0=
->>>>>>> 67ef48a (update : i262 update sna auth sdk for login events.)
 			</data>
 		</dict>
 		<key>Modules/FinvuAuthenticationSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -170,11 +138,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-<<<<<<< HEAD
-			+QncPXRlR8Ato6uGGyxc/5LFYIWhwUAFpihgx0apxEE=
-=======
 			fyC4PbPSRtlkp1M0p5nkrFWYs+JMtH//hpG/oWyKAY0=
->>>>>>> 67ef48a (update : i262 update sna auth sdk for login events.)
 			</data>
 		</dict>
 		<key>Modules/FinvuAuthenticationSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
